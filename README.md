@@ -13,6 +13,10 @@ IT JiangHu Client
 
 更多的内容，请参考源码！！
 
+##注意
+语言环境：Swift2.0</br>
+Xcode7.0正式版</br>
+
 ##LICESENCE
 MIT
 
