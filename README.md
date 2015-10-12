@@ -17,6 +17,10 @@ IT JiangHu Client
 语言环境：Swift2.0</br>
 Xcode7.0正式版</br>
 
+##关注微信
+微信号：iOSDevShares
+
+
 ##LICESENCE
 MIT
 
