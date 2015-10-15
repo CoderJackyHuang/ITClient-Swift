@@ -19,7 +19,7 @@ Xcode7.0正式版</br>
 
 ##关注微信
 微信号：iOSDevShares
-
+![image](https://github.com/CoderJackyHuang/IOSCallJsOrJsCallIOS/blob/master/wx.jpg)
 
 ##LICESENCE
 MIT
